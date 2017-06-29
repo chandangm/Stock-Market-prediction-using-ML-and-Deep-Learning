@@ -26,8 +26,10 @@ accuracy of this model is <b>70%</b> which is basically a pessimistic model i.e.
 <b>MODEL 2</b> - this model is an upgrade to model 1 , here the redundancy error is removed , gives a mean accuracy of <b>89.7 %</b>.
 the model is quite flexible to predict loss and profit of the stock market . 
 
-<b>Prediction Analysis for a stock:</b>
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+<b>Prediction Analysis for a stock:</b></br>
+![Actual/Predicted line graph](/image/graph/ACC.png?raw=true "line Graph") </br>
+![Profit/loss Area graph](/image/binary/AMBUJACEM.png?raw=true "Area Graph") </br>
+
 
 PS : the implementation files for the model and algorithms are missing in this repository on purpose.For further info leave a message at chandangm33@gmail.com
 <h3> Detailed report can be seen in ./report folder for differences in model and enchancments</h3>
